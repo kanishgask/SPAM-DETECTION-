@@ -88,9 +88,7 @@ Word count and text length distributions
 
 ![image](https://github.com/user-attachments/assets/76713441-ce68-4c1c-844a-2463ac916eba)
 ![image](https://github.com/user-attachments/assets/607254dc-7213-4da2-b3e9-ee16667aa96b)
-![image](https://github.com/user-attachments/assets/607254dc-7213-4da2-b3e9-ee16667aa96b)
 
-![image](https://github.com/user-attachments/assets/76713441-ce68-4c1c-844a-2463ac916eba)
 
-![image](https://github.com/user-attachments/assets/1dd97e5c-928d-4766-b80a-404c8872a6d1)
+
 
